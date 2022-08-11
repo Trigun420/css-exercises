@@ -1,3 +1,18 @@
-.href {
-    font-size: 38px; font-family: 'Courier New', Courier, monospace;
+.BIG {
+    font-size: 28px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+.OK {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    display: inline-block;
+}
+.Foot {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-align: center;
 }
